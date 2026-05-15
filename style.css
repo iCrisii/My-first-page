@@ -150,4 +150,8 @@ input {
         height: auto;   /* Mantiene la proporción */
         max-width: 350px; 
     }
+    .valopersonalizacion {
+        padding: 15px;
+        margin: 10px;
+    }
 }
