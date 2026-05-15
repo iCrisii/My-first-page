@@ -145,19 +145,9 @@ input {
     .contenedor-videos {
         flex-direction: column;     
     }
-
     iframe {
         width: 100%;    /* El video ocupa todo el ancho del celular */
         height: auto;   /* Mantiene la proporción */
         max-width: 350px; 
-    }
-
-    .Valopersonalizacion {
-        padding: 10px; /* Menos espacio interno para ganar pantalla */
-        margin: 10px;
-    }
-
-    body {
-        font-size: 14px; /* Bajamos un poquito el tamaño de letra */
     }
 }
